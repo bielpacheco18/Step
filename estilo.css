@@ -7,5 +7,15 @@ tr{
 border:2px solid #62466B;    
 }
 tr{
-  border:2px solid #62466B;      
+  border:2px solid #62466B; 
+}
+ul{
+    list-style-type: circle;
+    list-style-type:square;
+}
+#fifa19{
+width: 52px;
+    height: 82p;
+    float:right;
+    
 }
