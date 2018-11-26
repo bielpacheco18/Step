@@ -13,9 +13,21 @@ ul{
     list-style-type: circle;
     list-style-type:square;
 }
-#fifa19{
-width: 52px;
-    height: 82p;
+#espn logo{
+width: 40px;
+    height:40px;
     float:right;
     
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
 }
