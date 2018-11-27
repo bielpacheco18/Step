@@ -7,5 +7,27 @@ tr{
 border:2px solid #62466B;    
 }
 tr{
-  border:2px solid #62466B;      
+  border:2px solid #62466B; 
+}
+ul{
+    list-style-type: circle;
+    list-style-type:square;
+}
+#espn logo{
+width: 40px;
+    height:40px;
+    float:right;
+    
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
 }
