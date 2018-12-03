@@ -1,7 +1,7 @@
 table{
     text-align: center;
-        color:#090708;
-    border:2px solid #090708;
+    color:#090708;
+    border:2px solid #056498;
 }
 tr{
 border:2px solid #62466B;    
@@ -13,10 +13,7 @@ ul{
     list-style-type: circle;
     list-style-type:square;
 }
-#logo{
-width:80px;
-    height:80px;
-    
+
 }
 
 .column {
@@ -31,83 +28,33 @@ width:80px;
     clear: both;
 }
 
+a:hover{
+    color: #9585ef;
+}
 
-body {
-    background-color:#778899;
+a:active{
+    color:burlywood;
+}
+
+a:visited{
+    color: darkgreen;
+}
+
+a:link{
+    color: darkorange;
+}
+
+#espnlogo{
+    width: 30px;
+    height:30px;
+    float:right;
+}
+
+
+ div {
+    display: block;
 }
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    
